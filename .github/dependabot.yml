@@ -17,4 +17,4 @@ updates:
     reviewers:
       - "${{ secrets.NUGET_REVIEWER }}"
     schedule:
-      interval: monthly
+      interval: daily
