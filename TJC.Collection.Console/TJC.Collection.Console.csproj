@@ -34,7 +34,7 @@
   <!-- DEPENDENCIES -->
   <ItemGroup>
     <PackageReference Include="TJC.Collection.Core" Version="0.5.6" />
-    <PackageReference Include="TJC.ConsoleApplication" Version="0.7.2" />
+    <PackageReference Include="TJC.ConsoleApplication" Version="0.7.5" />
   </ItemGroup>
   <!-- TASKS -->
   <UsingTask TaskName="ReadFileContent" TaskFactory="RoslynCodeTaskFactory" AssemblyName="Microsoft.Build.Tasks.Core">
