@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.21.0] - 2024-11-19
+
 ### Added
 
 - File `project.assets.json` to release
@@ -42,76 +44,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Package reference TJC.Collection.Core
 - Package reference TJC.ConsoleApplication
 
-[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.20.4...HEAD
+[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.21.0...HEAD
 
-[0.20.4]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.20.3...v0.20.4
+[0.21.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.20.1...v0.21.0
 
-[0.20.3]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.20.2...v0.20.3
+[0.20.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.19.1...v0.20.1
 
-[0.20.2]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.20.1...v0.20.2
+[0.19.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.14.1...v0.19.1
 
-[0.20.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.20.0...v0.20.1
+[0.14.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.6.0...v0.14.1
 
-[0.20.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.19.3...v0.20.0
-
-[0.19.3]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.19.2...v0.19.3
-
-[0.19.2]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.19.1...v0.19.2
-
-[0.19.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.19.0...v0.19.1
-
-[0.19.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.18.1...v0.19.0
-
-[0.18.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.18.0...v0.18.1
-
-[0.18.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.17.0...v0.18.0
-
-[0.17.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.16.0...v0.17.0
-
-[0.16.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.15.2...v0.16.0
-
-[0.15.2]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.15.1...v0.15.2
-
-[0.15.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.15.0...v0.15.1
-
-[0.15.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.14.1...v0.15.0
-
-[0.14.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.14.0...v0.14.1
-
-[0.14.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.13.0...v0.14.0
-
-[0.13.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.12.0...v0.13.0
-
-[0.12.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.11.0...v0.12.0
-
-[0.11.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.10.7...v0.11.0
-
-[0.10.7]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.10.6...v0.10.7
-
-[0.10.6]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.10.5...v0.10.6
-
-[0.10.5]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.10.4...v0.10.5
-
-[0.10.4]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.10.3...v0.10.4
-
-[0.10.3]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.10.2...v0.10.3
-
-[0.10.2]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.10.1...v0.10.2
-
-[0.10.1]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.10.0...v0.10.1
-
-[0.10.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.9.0...v0.10.0
-
-[0.9.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.8.0...v0.9.0
-
-[0.8.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.7.0...v0.8.0
-
-[0.7.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.6.0...v0.7.0
-
-[0.6.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.5.0...v0.6.0
-
-[0.5.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.4.0...v0.5.0
-
-[0.4.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.3.0...v0.4.0
+[0.6.0]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.3.0...v0.6.0
 
 [0.3.0]: https://github.com/TJC-Tools/TJC.Collection.Console/releases/tag/v0.3.0
