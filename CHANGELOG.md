@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.27.4] - 2026-09-11
+
 ### Fixed
 
 - Fix grype lint errors
@@ -68,7 +70,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Package reference TJC.Collection.Core
 - Package reference TJC.ConsoleApplication
 
-[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.27.3...HEAD
+[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.27.4...HEAD
+
+[0.27.4]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.27.3...v0.27.4
 
 [0.27.3]: https://github.com/TJC-Tools/TJC.Collection.Console/compare/v0.27.2...v0.27.3
 
