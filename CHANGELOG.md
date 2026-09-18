@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Updated TJC.ConsoleApplication to 0.18.0
+
 ## [0.31.0] - 2026-09-17
 
 ## [0.30.0] - 2026-09-16
